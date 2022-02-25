@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The True narrative of the proceedings at the sessions-house in the Old-Bayly which began on Thursday the 15th of this instant January 1679 and ended on Fryday the 16th giving an account of most of the remarkable trials there, viz for murder, fellonies, and burglaries &amp;c., with a particular relation of their names and the places of their committing their facts, with the number of those condemned to dye, burnt in the hand, transported, and to be whipt.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63600</idno>
+            <idno type="STC">Wing T2827A</idno>
+            <idno type="STC">ESTC R27023</idno>
+            <idno type="EEBO-CITATION">09619008</idno>
+            <idno type="OCLC">ocm 09619008</idno>
+            <idno type="VID">43829</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63600)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43829)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1344:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The True narrative of the proceedings at the sessions-house in the Old-Bayly which began on Thursday the 15th of this instant January 1679 and ended on Fryday the 16th giving an account of most of the remarkable trials there, viz for murder, fellonies, and burglaries &amp;c., with a particular relation of their names and the places of their committing their facts, with the number of those condemned to dye, burnt in the hand, transported, and to be whipt.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials --  England.</term>
+               <term>Executions and executioners --  England.</term>
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:43829:1"/>
+            <pb n="1" facs="tcp:43829:1" rendition="simple:additions"/>
+            <head>THE TRUE NARRATIVE OF THE PROCEDINGS AT The Seſſions-Houſe IN THE OLD-BAYLY. Which began on <hi>Thurſday</hi> the 15th of this Inſtant <hi>Ja<g ref="char:EOLhyphen"/>nuary</hi> 1679 and Ended on <hi>Fryday</hi> the 16th.</head>
+            <head type="sub">Giving an Account of moſt of the Remarkable Trials there, <hi>viz</hi> for Murder, Fellonies and Burglaries, <hi>&amp;c.</hi> with a particular Relation of their Names, and the places of their Committing their Facts, with the number of thoſe Condemned to dye, Burnt in the hand, Tranſported and to be whipt.</head>
+            <p>THe firſt was <hi>Thomas Gold,</hi> who was Indicted, for that he in the Com<g ref="char:EOLhyphen"/>pany of three more, did on the 17th of <hi>December</hi> laſt, break into the Dwelling-houſe of one <hi>Katherine Harris,</hi> in the Pariſh of <hi>Hornzie,</hi> in the County of <hi>Middleſex,</hi> from whence, after they had ſecured her, by almoſt ſmothering her and her Children with the Bed-clothes, they went into the next Chamber, and bound her Servant-Maid, who whilſt they were effecting of it, took by the light of their Candle, particular notice of the now Priſoner, by reaſon of a blow on his Noſe, and a blemiſh in his Eye. After they had by this means ſecured all purſuit, they Ranſacked the Houſe, and carried away 14 Pewter Diſhes, 5 or 6 Plates, fourty ſhillings in Money, Table-Linnen, Childbed-Linnen, and other Cloathes to a conſiderable vallue rub'd off, after upon another exploit, the ſaid <hi>Gold</hi> being Committed to <hi>New-Priſon,</hi> the Proſecutor having notice of ſuch a parties being there, brought her Maid to ſee if ſhe knew him, who without pauſing, ſingled him from amongſt a dozen Priſoners, whereupon he was ſent to <hi>Newgate.</hi> Upon his Trial he plead<g ref="char:EOLhyphen"/>ed ignorance, and endeavoured to prove his place of reſidence that Night, but could not, therefore upon a full Evidence, he was brought in Guilty of Felony and Burglary.</p>
+            <p>
+               <hi>Audrian Scroop</hi> was Indicted for committing Murther on the Body of <hi>Willi<g ref="char:EOLhyphen"/>am Beſt,</hi> at a certain Tavern in <hi>Kings-ſtreet Westminſter,</hi> the circumſtances as they were ſworn in Court, are as follows, that the deceaſed and the Priſoner be<g ref="char:EOLhyphen"/>ing at the ſaid Tavern in the Evening, ſome violent Fudes aroſe between them, whereupon they both went ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which the reſt of the Company obſerving, fol<g ref="char:EOLhyphen"/>lowed them, the better to prevent and hinder them from injuring each other, ſo
+<pb n="2" facs="tcp:43829:2"/>that by the mediation of ſome Gentlemen, they ſeemingly were pacifyed, and did return to the ſame place, where the Priſoner acknowledg<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> his ſorrow for ſome unadvized words he had thrown out in Paſſion, but not having long renew<g ref="char:EOLhyphen"/>ed that Friendſhip, ere a greater con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt aroſe, upon which the deceaſed threw two ſeveral Tankards at the Priſoner, and with the latter hit him on the head; whereupon in great diſguſt he leaves the Room, but the deceaſed following him, he drew his Sword, and in the dark run him in under the left Pap, ſo that it en<g ref="char:EOLhyphen"/>ter<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng about five inches, it proved mortal, yet after that the Priſoner being diſ<g ref="char:EOLhyphen"/>armed by the Company to part the Fray, caught the deceaſed by the Noſe with his Teeth; all which was acted on the ſecond of <hi>December,</hi> yet <hi>Beſt</hi> deceaſed not till about five weeks after, therefore no malice being proved, it was found Manſlaughter.</p>
+            <p>
+               <hi>Charles King</hi> a Taylor, was Indicted for Robing a Servant-maid in <hi>York build<g ref="char:EOLhyphen"/>ings,</hi> in the <hi>Strand,</hi> about ſeven of the Clock in the Evening, ſnatching a bun<g ref="char:EOLhyphen"/>dle from under her Arm, containing two Aprons and a Gown, whereupon, ſhe crying out, he betook himſelf to flight, yet not acquainted with the Streets, he was ſo cloſely purſued by two Porters, that he was taken, but having drop'd the Goods, he in Court denied that ever he had them; but the Maid ſwearing poſitively, he was notwithſtanding found guilty of the Robbery.</p>
+            <p>
+               <hi>Elizabeth Spark,</hi> alias <hi>Souch,</hi> and <hi>William Abbot</hi> were indicted the former be<g ref="char:EOLhyphen"/>ing a notorious pickpocket, was as ſhe pretended picked up in <hi>Cornhil,</hi> by one <hi>Nichols</hi> a Butcher, who would needs faſten a Glaſs of Wine upon her, ſo that they repairing to a Tavern, whilſt he was ſearching her Placket, took the op<g ref="char:EOLhyphen"/>portunity of ſearching his pocket, and drew thence for her own proper Uſe, about 14 or 15 Shillings, and then making an excuſe to go down ſtairs, ſheard off; at which the Cully having ſome miſtruſt, all was not as it ſhould be ſearch<g ref="char:EOLhyphen"/>ing his Pockets, found his loſs; and runs down ſtairs, to enquire after his depart<g ref="char:EOLhyphen"/>ed new acquaintance, but ſhe had left him to bewail his folly: yet whilſt he was in purſute of her, ſhe <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> again perhaps for more; but contrary to her expectation, was ſeized by the Maſter of the Houſe, upon which <hi>Abbot</hi> lying perdue, endeavoured to reſcue her, and fell upon the ſaid <hi>Nichols,</hi> who was then returned from the purſute. She pleaded in Court, that he gave it her for to debauch her, yet ſhe being an antient Pickpocket, was brought in Guilty, but <hi>Abbot</hi> not being in her Company when the Fact was committed, could not be found Guilty.</p>
+            <p>
+               <hi>William Hunt,</hi> of St. <hi>Martins</hi> in the Fields, was Indicted for being Actually married to two ſeveral Wives, to which Indictment he pleaded Guilty, without any further examination of Witneſs or particulars whatſoever.</p>
+            <p>
+               <hi>Thomas Caſtillian,</hi> of St. <hi>Martins</hi> in the Fields having impeached one <hi>Henry Jones</hi> of a Felony and Burglary, for breaking open with a pair of Tongs, the Chamber-dore of one <hi>Luke Hemings,</hi> after an entrance at the outward Window, whereupon they were ſeverally Indicted, by reaſon the former ſhould give Evi<g ref="char:EOLhyphen"/>dence againſt the latter, yet after he had confeſſed himſelf Guilty of the Fellony, and Burglary, and that he had taken ſome handfuls of monies out of a broaken Drawer; his Arguments againſt his pretended accomplice, were ſo ſimple and ineffectual, that the Court could not be induced to credit him, by reaſon of his often traping himſelf, and he being but a Youth of about fifteen or ſixteen years of Age, ſo that <hi>Jones</hi> was cleared, and the ſaid <hi>Caſtilian</hi> found Guilty according to his own Confeſſion for Fellony and Burglary.</p>
+            <pb n="3" facs="tcp:43829:2"/>
+            <p>
+               <hi>Roger Swiny</hi> was Indicted for the Murther of one <hi>Richard Jones</hi> a Baliffs fol<g ref="char:EOLhyphen"/>lower, in <hi>Lincolns-Inn</hi>-Fields, the circumſtance in nature thus, five or ſix Bailiffs and their followers, waiting to Arreſt one <hi>Harris</hi> for a debt of ſixty pounds; due from him to one <hi>Timothy Pride,</hi> the which he having notice of ſent for the Priſoner and his Brother to Guard him out about ſome important affair, and they accordingly came; whereupon they three croſſing the Rails, went on till they came into the little Fields; the Bailiffs ſtill following them to <hi>Lincolns-Inn</hi> back Gate, made a ſtand, and as the Bailiffs ſwore, they called to them; where<g ref="char:EOLhyphen"/>upon they coming up, the Priſoner and his two Companions drew their Swords and in manfully defending of themſelves the aforeſaid <hi>Richard Jones</hi> received a wound on his Breſt five inches deep, of which he fell down and died; yet notwithſtanding he received his Deathſ-wound by the Brother of the Priſoner, the Priſoner as an accomplice was found Guilty of the Murther and Fellony.</p>
+            <p>
+               <hi>Walter Goff</hi> was Indicted for Felloniouſly taking away a Silver Tankard, three Gold Rings, ſeveral pieces of Broad-Gold, with other Goods and Chattels, to a conſiderable vallue, out of the Houſe of <hi>Thomas Seymore</hi> of <hi>White-Chapple;</hi> at <hi>Chriſtmas</hi> laſt, the ſaid <hi>Goff</hi> entering at the Seller Dore, which acciden<g ref="char:EOLhyphen"/>tally was left open, and going up Stairs took away the Goods, and returned undiſcovered; but being ſuſpected, ſoon after was taken, and did in part con<g ref="char:EOLhyphen"/>feſs the Robbery; yet at his Tryal ſtoutly denied the whole circumſtance, not<g ref="char:EOLhyphen"/>withſtanding which, the Evidence being plain and ſtrong againſt him, and ſome of the Goods found where he had diſpoſed of them, he was found Guilty of the Fellony.</p>
+            <p>
+               <hi>William Barrel</hi> a Soldier was Indicted for Felloniouſly taking away a piece of twelve penny Ribon, vallued at tenn ſhillings, from a Millener in the Exchange, upon which, being immediately apprehended, he was committed to Priſon; upon his Trial the Witneſs ſwore againſt him directly, that he took it, and putting it into his Pocket offered to depart; but being ſtayed, he would have made an Agreement, and compounded e<g ref="char:punc">▪</g>re it came to a farther diſpute; and on his Tri<g ref="char:EOLhyphen"/>al pleaded that he had given her ſatisfaction, but not being able to prove it, it was looked upon as a trick, to evalidate the Credit of the Witneſs, but that proved ineffectual, and he was brought in Guilty of the Fellony.</p>
+            <p>
+               <hi>Roger Beniſon</hi> was likewiſe Indicted for Fellony, the Warehouſe of <hi>Antho<g ref="char:EOLhyphen"/>ny Harriſon</hi> being broke open, about a fortnight before <hi>Chriſtmas,</hi> and from thence ſtolen one hundred Yards of died Bays, and about fifty yards of Flannel, the which upon ſearch was found in the cuſtody of the Priſoner, to which he pleaded that he had bought them long before the Robbery was committed, but could bring no proof thereof, yet notwithſtanding, the Witneſſes were not of force ſufficient to prove he ſtole them, wherefore he being indicted as the prin<g ref="char:EOLhyphen"/>ciple and not as an Acceſſary, the Jury brought him in not Guilty, and referred it to another indictment next Seſſions.</p>
+            <p>
+               <hi>Thomas Pettiford</hi> was indicted by one <hi>Wallis,</hi> a Smith in <hi>Water Lane,</hi> upon a bare ſuſpicion of his being acceſſary to the loſs of a Silver Tankard; vallued at about five pound, which he nor the Gentleman in his Company neither hand<g ref="char:EOLhyphen"/>led nor ſaw, yet notwithſtanding the Smith and all his Family ſwore ſo reſo<g ref="char:EOLhyphen"/>lutely, the Indictment was thought to be maliciouſly laid to blaſt his Reputa<g ref="char:EOLhyphen"/>tion, and the Jury being ſo diſcreet as to diſerne it, brought the Gentleman in not Guilty.</p>
+            <p>
+               <hi>Peter Richardſon</hi> was Indicted and Arraigned, for that he the ſaid <hi>Richardſon,</hi> in the company of three more did Felloni<g ref="char:EOLhyphen"/>ously takeſ and bear away, after having forced and broken open the Chamber-door of <hi>Mark Trout</hi> of <hi>New-Inn,</hi> in the Pariſh of St.
+<pb n="4" facs="tcp:43829:3"/>
+               <hi>Clements-Deans,</hi> a Hair-camblet Cloak, one beaver Hat, forty-ſix Guinnies ſix broad Pieces, a Silver-hilted Sword, and a bag of half Crowns and Five-ſhilling Pieces, in all, to the value of a hundred and ten Pounds; next day the noiſe of the Robery ſpreading, the ſaid <hi>Richardſon,</hi> who before was very bare of mo<g ref="char:EOLhyphen"/>ney, being obſerved at the Bull over againſt the ſaid <hi>Inn,</hi> to pull out whole handfuls of Gold and Silver, thought fit to queſtion him how he came by it, and being apprehended he confeſſed the manner and nature of the Robbery, as alſo where the Key of the Iron Cheſt, in which the moneys had been in, was thrown by his Confederates, the which accordingly was found, but in Court he denied what ever former he had declared, and ſaid that he had receiv'd what moneys he had of one <hi>Ruſſel:</hi> but he not being to be produced, his Confeſſion ſworn to, he was convict<g ref="char:EOLhyphen"/>ed of Fellony and Burglary.</p>
+            <p>
+               <hi>John Maccarty</hi> alſo was Indicted for Fellonouſly taking out of a Milliners Shop, in St. <hi>Martains-lane</hi> about eighteen or tween<g ref="char:EOLhyphen"/>ty yards of Ribbon, the manner as followeth, he and his Ac<g ref="char:EOLhyphen"/>complice going to the ſaid Shop, pretended to buy of ſeveral ſorts; but watching an opportunity ſoon conveyed away the a<g ref="char:EOLhyphen"/>fore mentioned parcel, the Priſoner being taxed, pretended the other had taken it away, and that he knew him not, nor ne'r had ſeen him till that time, but he having been an old offender, and burnt in the Hand, his ſlight excuſes would not in the leaſt pre<g ref="char:EOLhyphen"/>vail, but as a Confederate he was found guilty of the Fellony.</p>
+            <p>
+               <hi>Richard Templeman</hi> was Indicted for ſtealing a Game-cock, va<g ref="char:EOLhyphen"/>lued at five ſhillings, and a Hen valued at eighteen pence from <hi>Deborah Edwards,</hi> to which Indictment he pleaded not guilty, but the Witneſſes prov'd that he had ſtolen and felloniouſly ta<g ref="char:EOLhyphen"/>ken them out of her Hen-rooſt, and after upon ſearch the ſaid Cock was found in his poſſeſſion, but he pleaded he bought it of a Market-woman, but could not produce the Woman nor any Witneſſes thereof, ſo that he was found guilty of the Fellony to the value of ten pence. <hi>Ann Drate</hi> was likewiſe found guilty for felloniouſly ſtealing ſeveral parcels of Stockings.</p>
+            <p>
+               <hi>William Howly</hi> likewiſe was found guilty to the value of four pence, for ſtealing a Chamber-pot in <hi>Finch-lane:</hi> as alſo <hi>Wil<g ref="char:EOLhyphen"/>liam Woodword, Ann Rye,</hi> &amp;c.</p>
+            <p>There were In all eight burnt in the Hand, 7 Condemn'd, viz. <hi>John Gold, Elizabeth Zouch, Charles King, Thomas Caſtilian, Ro<g ref="char:EOLhyphen"/>ger Swiny, Peter Richardſon,</hi> and <hi>John Maccarty</hi> &amp;c. and two to be whipt: and ſo the Seſſions did conclude for the Fellons, the Trials of the Jeſuits being to begin on Saturday the 17th.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43829:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
